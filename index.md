@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Current Laker News
 
-You can use the [editor on GitHub](https://github.com/sikandernarang14/CURRENT-NBA-NEWS/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+**What Current Laker News is About?**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Current Laker News is about keeping up with the NBA has to offer, featuring Laker rumors, trade talk, discussions, game stats and more!
 
-### Markdown
+**LOS ANGELES LAKERS WIN THE 2020 NBA CHAMPIONSHIP**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Lebron James and Anthony Davis lead the Lakers to their 17th Championship. Lebron James ending with a 28 point triple double to end off a complete blowout against the Miani Heat, 106 to 93. It wasn't a surprise that the Lakers had won with an exhausted Jimmy Butler and an injured Goran Dragic on the opposing side. The run that they made was very impressive after beating every "underdog" team they went against, the Blazers, Rockets and the Nuggets. Many role players stepping it up, such as KCP, Dwight Howard, Danny Green and others. 
 
-```markdown
-Syntax highlighted code block
+![Pic1](lakersfinals.jpeg)
 
-# Header 1
-## Header 2
-### Header 3
+**Danny Green Recieves Death Threats for a Dreadful Game 4-5 Performance**
 
-- Bulleted
-- List
+After Danny Green missed a vital three pointer that would win them the championship, him and his wife recieved awful messages via social media and other platforms. His overall performance was not the best with what he was capable of, but it is completely unacceptable to send him hurtful messages over a basketball game. 
 
-1. Numbered
-2. List
+![Pic2](brick.jpeg)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sikandernarang14/CURRENT-NBA-NEWS/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Click Here 4 More](https://lakersnation.com/)
